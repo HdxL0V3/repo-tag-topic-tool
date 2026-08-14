@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 环境变量（包含敏感信息）
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 项目特定
+CLAUDE.md
+data/output.json
+
+# Claude
+.claude/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
